@@ -1,0 +1,15 @@
+.profile-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+.card-title{
+  color: darkgreen;
+  background-color: #fff;
+  padding: 5px 10px;
+}
+body{
+  background-color:#e6ac6e;
+}

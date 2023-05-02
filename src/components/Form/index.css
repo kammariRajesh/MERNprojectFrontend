@@ -1,0 +1,43 @@
+form{
+  background-color: #fff;
+  display: inline-block;
+  padding: 25px 50px;
+  text-align: left;
+  min-width: 500px;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+.container{
+  margin-top: 50px;
+  background-color: #fff;
+  width:1024px;
+  margin: 80px auto 0;
+  padding: 0;
+  height: fit-content;
+}
+form input{
+  margin-bottom: 15px;
+  line-height: 30px;
+  width: 100%;
+}
+label{
+  font-size: 25px;
+  font-weight: bold;
+}
+button{
+  background-color: lightgreen;
+  font-size: 24px;
+  padding: 10px 20px;
+  border: 0;
+  transition: 0.5s ease-in-out;
+}
+button:hover{
+  background-color: green;
+}
+.title{
+  background-color: lightgray;
+  padding: 20px 40px;
+}
+.msg{
+  color: rgb(160, 11, 123);
+}
